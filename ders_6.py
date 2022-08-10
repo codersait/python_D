@@ -43,7 +43,7 @@ while True:
     if deneme == 3:
         break
 
-print("deneme:",deneme)
+print("denemeler:",deneme)
 
 
 
